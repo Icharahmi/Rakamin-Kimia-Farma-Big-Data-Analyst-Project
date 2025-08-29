@@ -14,7 +14,5 @@ Through this project, I aim to simulate the role of a Big Data Analyst, transfor
 | GitHub | For version control and documentation.|
 
 ## 📬 Contact  
-For any inquiries, feel free to reach out:  
-- 📧 Email: rahmi@example.com  
-- 💼 LinkedIn: [Rahmi](https://www.linkedin.com/in/rahmi)  
-- 🐙 GitHub: [rahmi-username](https://github.com/rahmi-username) 
+For any inquiries, feel free to reach out:
+💼 LinkedIn: [Ishlahrahmi](www.linkedin.com/in/ishlahrahmi-meishrin)
