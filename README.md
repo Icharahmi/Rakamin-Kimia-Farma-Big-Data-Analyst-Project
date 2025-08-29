@@ -15,4 +15,5 @@ Through this project, I aim to simulate the role of a Big Data Analyst, transfor
 
 ## 📬 Contact  
 For any inquiries, feel free to reach out:
-💼 LinkedIn: [Ishlahrahmi](www.linkedin.com/in/ishlahrahmi-meishrin)
+
+💼 LinkedIn: [Ishlahrahmi](https://www.linkedin.com/in/ishlahrahmi-meishrin/)
