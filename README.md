@@ -7,6 +7,8 @@ The main objective is to evaluate the company’s business performance from 2020
 Through this project, I aim to simulate the role of a Big Data Analyst, transforming raw data into meaningful insights that can support data-driven decision-making.
 
 🛠️ Tools & Technologies
-| SQL (Google BigQuery) – for data cleaning, transformation, and analysis.| 
-| Google Looker Studio – for dashboard development and data visualization.|
-| GitHub – for version control and documentation.|
+|Tools  | Description |
+|------------------------|----------------------------|
+| SQL (Google BigQuery) | For data cleaning, transformation, and analysis.| 
+| Google Looker Studio | For dashboard development and data visualization.|
+| GitHub | For version control and documentation.|
